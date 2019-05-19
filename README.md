@@ -1,2 +1,2 @@
 # Movie-Catalog-Microservice
-A microservice for movie catalog built using Spring Boot
+A microservice architecture for movie catalog built using Spring Boot & Netflix Eureka service discovery
